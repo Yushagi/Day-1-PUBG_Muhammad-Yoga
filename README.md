@@ -4,7 +4,7 @@ Dokumentasi Day 1 Proyek Workshop.
 # Day 1 Proyek Workshop
 ## Identitas Peserta
 - **Nama:** Muhammad Yoga
-- **Kelompok:** [Nama Kelompok]
+- **Kelompok:** PUBG
 - **Kegiatan:** Day 1 Proyek Workshop
 
 ## Deskripsi Repository
